@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-multiple-language-translate-app/static/css/main.f50d2ff9.css",
+    "main.js": "/react-multiple-language-translate-app/static/js/main.72828163.js",
+    "static/js/787.0f2dc6ef.chunk.js": "/react-multiple-language-translate-app/static/js/787.0f2dc6ef.chunk.js",
+    "index.html": "/react-multiple-language-translate-app/index.html",
+    "main.f50d2ff9.css.map": "/react-multiple-language-translate-app/static/css/main.f50d2ff9.css.map",
+    "main.72828163.js.map": "/react-multiple-language-translate-app/static/js/main.72828163.js.map",
+    "787.0f2dc6ef.chunk.js.map": "/react-multiple-language-translate-app/static/js/787.0f2dc6ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f50d2ff9.css",
+    "static/js/main.72828163.js"
+  ]
+}
